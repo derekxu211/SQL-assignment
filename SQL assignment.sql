@@ -68,5 +68,7 @@ FROM product_with_sequence_number
 GROUP BY product_id
 ORDER BY product_id ASC;
 
+-- version 08/06/2024
+
 
 
